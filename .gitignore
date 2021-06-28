@@ -12,6 +12,10 @@ dogs-vs-cats/
 NYT-comments/
 model/
 googlemapskey.txt
+data/
+Nexon.ipynb
+car_dataset/
+Hacarton.ipynb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
