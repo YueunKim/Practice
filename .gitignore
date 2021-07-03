@@ -16,6 +16,8 @@ data/
 Nexon.ipynb
 car_dataset/
 Hacarton.ipynb/
+open/
+npy_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
